@@ -1,0 +1,23 @@
+{
+  "name": "handsontypescript",
+  "version": "1.0.0",
+  "description": "git init -b main git add . git commit -m \"First commit\" git remote add origin git@github.com:abhijeet-srivastava/ts-chat-server-demo.git git remote set-url origin  git@github.com:abhijeet-srivastava/ts-chat-server-demo.git git pull origin main git push -u origin main# ts-chat-server-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet-srivastava/ts-chat-server-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeet-srivastava/ts-chat-server-demo/issues"
+  },
+  "homepage": "https://github.com/abhijeet-srivastava/ts-chat-server-demo#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.8.3"
+  }
+}
